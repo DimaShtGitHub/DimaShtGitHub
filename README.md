@@ -5,8 +5,9 @@
 ---
 
 ### Контакты:
-[<img align="left" alt="bazraider | Telegram" width="40px" src="https://img.icons8.com/fluency/48/000000/telegram-app.png" />](https://t.me/Sht_Dmtr)
-[<img align="left" alt="bazraider | Mail" width="40px" src="https://papik.pro/uploads/posts/2022-01/1643628397_1-papik-pro-p-pochta-logotip-1.png" />](schtanckevitch.dima@yandex.ru)
+[<img align="left" alt="shtD | Telegram" width="40px" src="https://img.icons8.com/fluency/48/000000/telegram-app.png" />](https://t.me/Sht_Dmtr)
+[<img align="left" alt="shtD | Mail" width="40px" src="https://papik.pro/uploads/posts/2022-01/1643628397_1-papik-pro-p-pochta-logotip-1.png" />](schtanckevitch.dima@yandex.ru)
+[<img align="left" alt="shtD | LinkedIn" width="40px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRCl-CENw0Z-OeaFbqQ2DXOiyzI0e4Xa6MMA&usqp=CAU" />](linkedin.com/in/дмитрий-штанкевич-768bbb124)
 <br/>
 <br/>
 
