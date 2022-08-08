@@ -6,7 +6,7 @@
 
 ### Контакты:
 [<img align="left" alt="shtD | Telegram" width="40px" src="https://img.icons8.com/fluency/48/000000/telegram-app.png" />](https://t.me/Sht_Dmtr)
-[<img align="left" alt="shtD | Mail" width="40px" src="https://papik.pro/uploads/posts/2022-01/1643628397_1-papik-pro-p-pochta-logotip-1.png" />](schtanckevitch.dima@yandex.ru)
+[<img align="left" alt="shtD | Mail" width="40px" src="https://papik.pro/uploads/posts/2022-01/1643628397_1-papik-pro-p-pochta-logotip-1.png" />](https://schtanckevitch.dima@yandex.ru)
 [<img align="left" alt="shtD | LinkedIn" width="40px" src="https://img.icons8.com/color/48/000000/linkedin-2--v1.png" />](linkedin.com/in/дмитрий-штанкевич-768bbb124)
 <br/>
 <br/>
