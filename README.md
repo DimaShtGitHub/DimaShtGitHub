@@ -1,18 +1,23 @@
 <h1 align="center">Привет, меня зовут Дима и я Frontend разработчик 👨‍💻
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h4 align="center">Frontend разработчик. В IT и Digital индустрии более 2 лет. Имею опыт работы с коммерческими и стартап проектами. Работал в командах с большим количеством сотрудников.
-</h4>
+<p align="center">Frontend разработчик. В IT и Digital индустрии более 2 лет. Имею опыт работы с коммерческими и стартап проектами. Работал в командах с большим количеством сотрудников.
+</p>
 
----
+[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/Sht_Dmtr)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0281c0?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dmitriy-shtanckevich/)
+[![Email](https://img.shields.io/badge/-Mail-yellow?style=flat&logo=gmail&logoColor=white)](https://t.me/Sht_Dmtr)
 
-### Контакты:
-[<img align="left" alt="shtD | Telegram" width="40px" src="https://img.icons8.com/fluency/48/000000/telegram-app.png" />](https://t.me/Sht_Dmtr)
-[<img align="left" alt="shtD | Mail" width="40px" src="https://papik.pro/uploads/posts/2022-01/1643628397_1-papik-pro-p-pochta-logotip-1.png" />](mailto:schtanckevitch.dima@yandex.ru)
-[<img align="left" alt="shtD | LinkedIn" width="40px" src="https://img.icons8.com/color/48/000000/linkedin-2--v1.png" />](https://linkedin.com/in/дмитрий-штанкевич-768bbb124)
+
+
+
+
+### About me
+I`am frontend developer from Russia. 
+For more than 2 years I have been working in the development
+of websites and applications in the Java Script language.
 <br/>
 <br/>
-
----
+<br/>
 
 ### Мой стек:
 <img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
