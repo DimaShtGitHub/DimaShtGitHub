@@ -3,11 +3,11 @@
 <!-- <p align="center">Frontend разработчик. В IT и Digital индустрии более 2 лет. Имею опыт работы с коммерческими и стартап проектами. Работал в командах с большим количеством сотрудников.
 </p> -->
 
-<p align='center'>
+
 [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/Sht_Dmtr)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0281c0?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dmitriy-shtanckevich/)
 [![Email](https://img.shields.io/badge/-Mail-yellow?style=flat&logo=gmail&logoColor=white)](https://t.me/Sht_Dmtr)
-</p>
+
 
 
 
