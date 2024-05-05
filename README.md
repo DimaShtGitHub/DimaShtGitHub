@@ -1,10 +1,10 @@
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2RmM21iaXRjeWI4Y3VxbGlrN2VjZDJ1bTBzZWNoOGM2bDNxMHQxbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif" />
 
-
-
+<div align="center">
 [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/Sht_Dmtr)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0281c0?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dmitriy-shtanckevich/)
 [![Email](https://img.shields.io/badge/-Mail-yellow?style=flat&logo=gmail&logoColor=white)](https://t.me/Sht_Dmtr)
-
+</div>
 
 
 
