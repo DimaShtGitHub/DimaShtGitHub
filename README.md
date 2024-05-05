@@ -1,7 +1,4 @@
-<h1 align="center">Привет, меня зовут Дима и я Frontend разработчик 👨‍💻
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<!-- <p align="center">Frontend разработчик. В IT и Digital индустрии более 2 лет. Имею опыт работы с коммерческими и стартап проектами. Работал в командах с большим количеством сотрудников.
-</p> -->
+
 
 
 [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/Sht_Dmtr)
